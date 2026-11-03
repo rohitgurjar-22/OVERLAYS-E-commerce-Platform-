@@ -73,6 +73,10 @@ I gained practical experience in validating different e-commerce functionalities
 Defect Log
 <img width="960" height="540" alt="Screenshot 2026-11-03 122657" src="https://github.com/user-attachments/assets/0876358f-eb18-4915-b391-5fc8795339c6" />
 <img width="960" height="540" alt="Screenshot 2026-11-03 122702" src="https://github.com/user-attachments/assets/ee43cced-6196-40f3-bd5f-c1c39848c16b" />
+<img width="960" height="540" alt="Screenshot 2026-11-03 124318" src="https://github.com/user-attachments/assets/8d2df920-08d1-4a10-b315-f527806ca5c8" />
+
+<img width="960" height="540" alt="Screenshot 2026-11-03 124335" src="https://github.com/user-attachments/assets/86a0908d-0070-4fde-b06d-19e6724d8f64" />
+
 
 Summary
 <img width="960" height="540" alt="Screenshot 2026-11-03 123728" src="https://github.com/user-attachments/assets/26a27cdd-8db3-4d20-b77b-a33036c29eb7" />
