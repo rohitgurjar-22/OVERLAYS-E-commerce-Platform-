@@ -8,8 +8,31 @@ Manual Testing Projects
 I am excited to share my manual testing project on Overlays E-commerce Website, an e-commerce web application. I performed end-to-end manual testing, covering 12 key modules:
 
 🔹Project Testing Modules
-<img width="960" height="540" alt="Screenshot 2026-11-03 122401" src="https://github.com/user-attachments/assets/5304d0a2-423b-468e-be6a-532853f6d7a4" />
 
+1. Home Page
+2. User Registration & Login
+3. Our Products
+4. Special Offers
+5. Popular Items
+6. Contact Us
+7. Product Detail Page
+8. Cart Page
+9. Search Product
+10. Product Category
+11. Checkout Page
+12. Navigation Menu
+    
+📊 Project Snapshot
+✅ 160 test cases designed and executed
+✅ 110 test cases passed
+✅ 50 defects identified and logged with reproduction steps, severity & priority
+✅ Test report and defect distribution graph prepared in Excel
+
+This project helped me strengthen my understanding of test case design, test execution, defect identification, bug reporting, and end-to-end manual testing.
+
+I gained practical experience in validating different e-commerce functionalities and ensuring application quality through systematic manual testing.
+🔹Project Testing Modules
+<img width="960" height="540" alt="Screenshot 2026-11-03 122401" src="https://github.com/user-attachments/assets/5304d0a2-423b-468e-be6a-532853f6d7a4" />
 
 1. Home Page
 <img width="960" height="540" alt="Screenshot 2026-11-03 122534" src="https://github.com/user-attachments/assets/9377bbe7-7409-463f-8d2e-f94f9d6761b5" />
@@ -53,31 +76,5 @@ Defect Log
 
 Summary
 <img width="960" height="540" alt="Screenshot 2026-11-03 123728" src="https://github.com/user-attachments/assets/26a27cdd-8db3-4d20-b77b-a33036c29eb7" />
-
-
-
-📊 Project Snapshot
-✅ 160 test cases designed and executed
-✅ 110 test cases passed
-✅ 50 defects identified and logged with reproduction steps, severity & priority
-✅ Test report and defect distribution graph prepared in Excel
-
-This project helped me strengthen my understanding of test case design, test execution, defect identification, bug reporting, and end-to-end manual testing.
-
-I gained practical experience in validating different e-commerce functionalities and ensuring application quality through systematic manual testing.
-
-1. Home Page
-2. User Registration & Login
-3. Our Products
-4. Special Offers
-5. Popular Items
-6. Contact Us
-7. Product Detail Page
-8. Cart Page
-9. Search Product
-10. Product Category
-11. Checkout Page
-12. Navigation Menu
-
 #ManualTesting #SoftwareTesting #QA #QualityAssurance #SoftwareTester #TestCases #BugReporting #Testing #Ecommerce #TestCaseDesign #BugTracking #Overlays
 
