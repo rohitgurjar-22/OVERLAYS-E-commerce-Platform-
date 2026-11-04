@@ -80,5 +80,4 @@ Defect Log
 
 Summary
 <img width="960" height="540" alt="Screenshot 2026-11-03 123728" src="https://github.com/user-attachments/assets/26a27cdd-8db3-4d20-b77b-a33036c29eb7" />
-#ManualTesting #SoftwareTesting #QA #QualityAssurance #SoftwareTester #TestCases #BugReporting #Testing #Ecommerce #TestCaseDesign #BugTracking #Overlays
-
+-------xox---------
