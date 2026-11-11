@@ -1,9 +1,18 @@
 [Overlays_Test_Report.xlsx](https://github.com/user-attachments/files/34290264/Overlays_Test_Report.xlsx)
 
 # OVERLAYS-E-commerce-Platform-
-Manual Testing Projects /n
+Manual Testing Projects
+
 1 Project introduction
-2
+2 Understanding and Explore the Functionality (FRS).
+3 Test Plan
+4. Writing Test Scenarios
+5. Writing Test Cases and Reviews
+6. Environment Setup and Build deployment
+7. Test Execution
+8. Bug Reporting and Tracking
+9. Sanity Testing ,Re-testing and Regression testing
+10. Test Sign off
 
 🛒 Sharing my Manual Testing Project: Overlays E-commerce Website
 
