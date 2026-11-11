@@ -3,9 +3,9 @@
 # OVERLAYS-E-commerce-Platform-
 Manual Testing Projects
 
-1 Project introduction
-2 Understanding and Explore the Functionality (FRS).
-3 Test Plan
+1. Project introduction
+2. Understanding and Explore the Functionality (FRS).
+3. Test Plan
 4. Writing Test Scenarios
 5. Writing Test Cases and Reviews
 6. Environment Setup and Build deployment
